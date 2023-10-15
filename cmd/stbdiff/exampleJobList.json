@@ -1,0 +1,29 @@
+[{
+    "outputPrefix":"koiru",
+    "inputImage":"",
+    "prompt":"superhero dog",
+    "negPrompt":"",
+    "cfgScale":0.7,
+    "width":512,
+    "height":512,
+    "sampleMethod":"DPM2",
+    "sampleSteps":15,
+    "strength":0,
+    "seed":-1,
+    "repeats":2
+},
+{
+    "outputPrefix":"city",
+    "inputImage":"",
+    "prompt":"cyberpunk cyber city street many robots",
+    "negPrompt":"",
+    "cfgScale":0.7,
+    "width":512,
+    "height":512,
+    "sampleMethod":"EULER",
+    "sampleSteps":35,
+    "strength":0,
+    "seed":-1,
+    "repeats":3
+    }
+]
